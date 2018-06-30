@@ -7,3 +7,4 @@ All you need to do is
  
  NOTE: You must be using the current version of Edge, Firefox, or Chrome to use this digital masterpiece!
 
+[Udacity Project]
