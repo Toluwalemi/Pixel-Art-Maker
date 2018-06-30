@@ -6,3 +6,4 @@ All you need to do is
   3. Click a cell in the grid to fill that cell with the chosen color.
  
  NOTE: You must be using the current version of Edge, Firefox, or Chrome to use this digital masterpiece!
+
