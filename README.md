@@ -1,5 +1,8 @@
 # Pixel-Art-Maker
+[Udacity Project]
+
 A single-page web app that allows users to draw pixel art on a customizable canvas!
+
 All you need to do is 
   1. Dynamically set the size of the table as an N by M grid.
   2. Choose a color.
@@ -7,4 +10,11 @@ All you need to do is
  
  NOTE: You must be using the current version of Edge, Firefox, or Chrome to use this digital masterpiece!
 
-[Udacity Project]
+
+Navigate to:
+
+1. [Index.html.](index.html)
+
+2. [Javascript.](designs.js)
+
+3. [CSS file.](styles.css)
