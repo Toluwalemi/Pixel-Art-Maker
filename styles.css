@@ -3,42 +3,42 @@ html{
   overflow-y: scroll;
 }
 
-body {
+body{
     text-align: center;
 }
 
-h1 {
+h1{
     font-family: Monoton;
     font-size: 90px;
     margin: 0.2em;
     text-shadow: 4px 4px 4px mediumseagreen;
 }
 
-h2 {
+h2{
     margin: 1em 0 0.25em;
 }
 
-h2:first-of-type {
+h2:first-of-type{
     margin-top: 0.5em;
 }
 
-table, tr, td {
+table, tr, td{
     border: 1px solid black;
 }
 
-table {
+table{
     border-collapse: collapse;
     margin: 0 auto;
 }
 
-tr {
+tr{
     height: 20px;
 }
 
-td {
+td{
     width: 20px;
 }
 
-input[type=number] {
+input[type=number]{
     width: 6em;
 }
